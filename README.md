@@ -7,13 +7,15 @@
 
 5. Quinto
 
-# :alien: Portfolio :computer:
+# Este es mi primer README :computer:
+
+![Screenshot](pro.jpg)
 
 This is my portfolio with the most important development proyects
 
 ## Follow me
 
-![twitter](http://i.imgur.com/tXSoThF.png)
+![facebook](http://i.imgur.com/tXSoThF.png)
 [twitter.com/dulfrey](https://twitter.com/dulfrey)
 
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
